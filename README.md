@@ -4,6 +4,10 @@ OrpheusDL - Beatport
 =================
 
 A Beatport module for the OrpheusDL modular archival music program
+The main module has been broken, the fix provided here which is implemnented in this repo:
+https://github.com/dracarys69/orpheusdl-beatport/commit/b912b837180913095be8f32caecd6f1328707eb9
+
+All credits to @dracarys69
 
 [Report Bug](https://github.com/Dniel97/orpheusdl-beatport/issues)
 ·
